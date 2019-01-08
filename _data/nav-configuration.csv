@@ -1,8 +1,7 @@
 display-text,stub
 Home,/
+About Calnon,/about.html
+Interview,/interview/viewer.php?cachefile=Calnon.xml
 Browse,/browse.html
-Subjects,/subjects.html
-Map,/map.html
 Timeline,/timeline.html
 Data,/data/
-About,about.html

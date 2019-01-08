@@ -20,7 +20,7 @@ permalink: /about.html
     <div class="col-md-12">
         <p>A documentary film about Lt. Calnon’s experiences will also be available here soon.</p>
         <p>Mr. Calnon also <a href="https://www.youtube.com/watch?v=MN1UhBenH5Y&feature=youtu.be" target="_blank">recorded an interview</a> for the <a href="http://www.loc.gov/vets/" target="_blank">Veterans History Project</a>, which is a project of the Library of Congress's <a href="http://www.loc.gov/folklife/" target="_blank">American Folklife Center.</a></p>
-        <p>Additional information about Lt. Calnon’s crew and missions can be found at: <a href="http://384thbombgroup.com/_content/_pages/person.php?PersonKey=596" target="_blank">http://384thbombgroup.com/_content/_pages/person.php?PersonKey=596</a></p>
+        <p>Additional information about Lt. Calnon’s crew and missions can be found at <a href="http://384thbombgroup.com/_content/_pages/person.php?PersonKey=596" target="_blank">384th Bombardment Group (Heavy)</a> website (<a href="https://web.archive.org/web/20190108014240/http://384thbombgroup.com/_content/_pages/person.php?PersonKey=596" target="_blank">archived page</a>).</p>
     </div>
 </div>
 
