@@ -4,7 +4,7 @@ layout: page
 permalink: /about.html
 ---
 
-<div class="row mt-5">
+<div class="row my-5">
     <div class="col-md-8">
         <h2><strong>About Mark B. Calnon</strong></h2>
         <p class="pt-3">Mark Brooks Calnon, Sr. was born in Meridian, Idaho on August 21, 1918 and was raised on the family farm. After graduating from Meridian High School he moved to Moscow to study agriculture at the University of Idaho. He graduated from college in 1940. In an interview conducted with Mark for this project he states, “Well it wasn’t long before I went into the Army. The draft was on, and my number was about to come up, so I volunteered. I knew I didn’t want to pack a rifle and I thought, well if I volunteered I might have a little choice of what I did.” He chose to fly.</p>
@@ -14,16 +14,14 @@ permalink: /about.html
     <div class="col-md-4">
         <figure class="figure">
             <img class="figure-img img-fluid pt-5" alt="Photo of Mark Calnon" src="https://cdm17254.contentdm.oclc.org/digital/iiif/calnon/31/full/pct:50/0/default.jpg">
-            <figcaption class="figure-caption text-center">Mark Brooks Calnon, Pilot Portrait</figcaption>
+            <figcaption class="figure-caption text-center"><a href="{{ '/items/calnon31.html' | relative_url }}">Mark Brooks Calnon, Pilot Portrait</a></figcaption>
         </figure>
     </div>
-    <div class="col-md-12">
-        <p>A documentary film about Lt. Calnon’s experiences will also be available here soon.</p>
-        <p>Mr. Calnon also <a href="https://www.youtube.com/watch?v=MN1UhBenH5Y&feature=youtu.be" target="_blank">recorded an interview</a> for the <a href="http://www.loc.gov/vets/" target="_blank">Veterans History Project</a>, which is a project of the Library of Congress's <a href="http://www.loc.gov/folklife/" target="_blank">American Folklife Center.</a></p>
-        <p>Additional information about Lt. Calnon’s crew and missions can be found at <a href="http://384thbombgroup.com/_content/_pages/person.php?PersonKey=596" target="_blank">384th Bombardment Group (Heavy)</a> website (<a href="https://web.archive.org/web/20190108014240/http://384thbombgroup.com/_content/_pages/person.php?PersonKey=596" target="_blank">archived page</a>).</p>
+    <div class="col-md-8">
+        <p>The Calnon collection was put together by film maker Denise Bennett as part of a Seed Grant funded project. Her research resulted in a documentary film, <a href="https://video.idahoptv.org/video/some-lived-an-idaho-pows-story-e4uxn8/" target="_blank" rel="noopener">"Some Lived: An Idaho POW's Story"</a>, aired as part of Idaho Public Television's series <em>Idaho Experience</em>.</p>
+        <p>Mr. Calnon also <a href="https://www.youtube.com/watch?v=MN1UhBenH5Y&feature=youtu.be" target="_blank" rel="noopener">recorded an interview</a> for the <a href="http://www.loc.gov/vets/" target="_blank" rel="noopener">Veterans History Project</a>, which is a project of the Library of Congress's <a href="http://www.loc.gov/folklife/" target="_blank" rel="noopener">American Folklife Center.</a></p>
+        <p>Additional information about Lt. Calnon’s crew and missions can be found at <a href="http://384thbombgroup.com/_content/_pages/person.php?PersonKey=596" target="_blank" rel="noopener">384th Bombardment Group (Heavy)</a> website (<a href="https://web.archive.org/web/20190108014240/http://384thbombgroup.com/_content/_pages/person.php?PersonKey=596" target="_blank">archived page</a>).</p>
     </div>
 </div>
-
-<br>
 
 {% include credits.md %}

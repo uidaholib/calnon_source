@@ -13,15 +13,15 @@ cdm-collection-id: calnon
 
 # header and head metadata
 tagline: Materials from the life of Mark B. Calnon, World War II Pilot and Prisoner of War
-description: "The Mark Brooks Calnon Collection consists materials from 2nd. Lt. Mark Brooks Calnon, including memorabilia relating to his experiences in World War II as a pilot and prisoner of war. The collection includes photographs, documents, an oral history (audio/video/transcript), and a copy of Calnon's book, <i>Some Lived, Some Died It Was Understood</i>. The collection was put together by Journalism and Mass Media Professor Denise Bennett as part of a Seed Grant funded project." 
-keywords: "Idaho; Labor; War;" # describing the whole collection -- add to the two provided
-author: owikle # You! Add your github username
+description: "The Mark Brooks Calnon Collection consists materials from 2nd. Lt. Mark Brooks Calnon, including memorabilia relating to his experiences in World War II as a pilot and prisoner of war. The collection includes photographs, documents, an oral history (audio/video/transcript), and a copy of Calnon's book, <em>Some Lived, Some Died It Was Understood</em>." 
+keywords: "Idaho; World War II; Prisoner of War; oral history" # describing the whole collection -- add to the two provided
+author: evanwill # You! Add your github username
 
 # home page and browse
 home-banner-image-number: 15 # use number of photo from collection
 home-banner-image-link:  # leave blank unless no cdm number to generate item
-home-banner-image-title: B17 Crew Portrait from https://digital.lib.uidaho.edu/cdm/ref/collection/calnon/id/15 # for accessibility 
-home-title-y-padding: 10em # the margin from the top your title portion will appear
+home-banner-image-title: B17 Crew Portrait https://www.lib.uidaho.edu/digital/calnon/items/calnon15.html # for accessibility 
+home-title-y-padding: 9em # the margin from the top your title portion will appear
 featured-subjects: #separate semi-colon(';') - if left blank, will be automatically generated to create top 5 subjects
 featured-subjects-max: 6 # set number of top subjects to display if auto generating
 featured-locations: #separate by semi-colon(';') - if left blank, will be automatically generated to create top 5 locations
