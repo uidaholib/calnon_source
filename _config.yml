@@ -10,6 +10,8 @@ baseurl: /digital/calnon
 # url to the shared assets folder on Digital
 digital-assets: https://www.lib.uidaho.edu/assets
 
+analytics: true
+
 # page gen settings https://github.com/avillafiorita/jekyll-datapage_gen
 page_gen:
   - data: 'calnon'
